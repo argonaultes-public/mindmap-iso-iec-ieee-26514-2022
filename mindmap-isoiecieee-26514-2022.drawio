@@ -252,11 +252,26 @@
         <mxCell id="3t2eln8wta4C8ZP0yIUS-85" value="Plan de documentation" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-340" y="-1230" width="240" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="3t2eln8wta4C8ZP0yIUS-96" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3t2eln8wta4C8ZP0yIUS-87" target="3t2eln8wta4C8ZP0yIUS-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3t2eln8wta4C8ZP0yIUS-97" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3t2eln8wta4C8ZP0yIUS-87" target="3t2eln8wta4C8ZP0yIUS-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3t2eln8wta4C8ZP0yIUS-98" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3t2eln8wta4C8ZP0yIUS-87" target="3t2eln8wta4C8ZP0yIUS-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3t2eln8wta4C8ZP0yIUS-99" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3t2eln8wta4C8ZP0yIUS-87" target="3t2eln8wta4C8ZP0yIUS-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3t2eln8wta4C8ZP0yIUS-100" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3t2eln8wta4C8ZP0yIUS-87" target="3t2eln8wta4C8ZP0yIUS-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3t2eln8wta4C8ZP0yIUS-87" value="Plan du projet de documentation et tâches" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2330" y="390" width="240" height="140" as="geometry" />
+          <mxGeometry x="2300" y="470" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="3t2eln8wta4C8ZP0yIUS-88" value="Objectifs du projet" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2740" y="180" width="240" height="140" as="geometry" />
+          <mxGeometry x="2740" y="120" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="3t2eln8wta4C8ZP0yIUS-89" value="Périmètre du projet" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="2740" y="330" width="240" height="140" as="geometry" />
@@ -265,7 +280,7 @@
           <mxGeometry x="2740" y="480" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="3t2eln8wta4C8ZP0yIUS-91" value="&lt;div&gt;Sujets à traiter&lt;/div&gt;&lt;div&gt;=&amp;gt; Types de documentation&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2740" y="630" width="240" height="140" as="geometry" />
+          <mxGeometry x="2760" y="630" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="3t2eln8wta4C8ZP0yIUS-92" value="Stratégie de réutilisation" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="2740" y="780" width="240" height="140" as="geometry" />
